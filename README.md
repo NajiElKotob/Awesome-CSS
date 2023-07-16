@@ -3,7 +3,7 @@
 ## Learn
 ### Flexbox
 * [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - css-tricks.com
-
+* [Learn Flexbox CSS 📺 ~8 min](https://youtu.be/phWxA89Dy94) - Slaying The Dragon
   
 ## Websites
 * [CSS Tutorial](https://www.w3schools.com/css/) - w3schools.com
