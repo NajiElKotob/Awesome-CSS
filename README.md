@@ -1,13 +1,17 @@
 # Awesome CSS
 
 ## Learn
-### Flexbox
-* [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - css-tricks.com
-* [Learn Flexbox CSS 📺 ~8 min](https://youtu.be/phWxA89Dy94) - Slaying The Dragon
-  
-## Websites
+### Tutorial
 * [CSS Tutorial](https://www.w3schools.com/css/) - w3schools.com
 * [CSS Guides](https://css-tricks.com/guides/) - css-tricks.com
+* [Learn CSS – Responsive Web Design Study Guide](https://www.freecodecamp.org/news/learn-css/) - freecodecamp.org
+
+  
+#### Flexbox
+* [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - css-tricks.com
+* [Learn Flexbox CSS 📺 ~8 min](https://youtu.be/phWxA89Dy94) - Slaying The Dragon
+
+-----
 
 ## CSS Libraries
 * [Animate.css](https://animate.style/) - animate.style | Just-add-water CSS animations
