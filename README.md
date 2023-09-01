@@ -5,7 +5,7 @@
 * [CSS Tutorial](https://www.w3schools.com/css/) - w3schools.com
 * [CSS Guides](https://css-tricks.com/guides/) - css-tricks.com
 * [Learn CSS – Responsive Web Design Study Guide](https://www.freecodecamp.org/news/learn-css/) - freecodecamp.org
-
+* [50 Projects in 50 Days](https://github.com/bradtraversy/50projects50days) ⭐ - HTML, CSS and JS
   
 #### Flexbox
 * [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - css-tricks.com
@@ -28,8 +28,7 @@
 ## Gamification
 * [CSS Dinner](https://flukeout.github.io) - flukeout
 
-## Tutorials
-* [50 Projects in 50 Days](https://github.com/bradtraversy/50projects50days)
+
 
 ## Videos
 * [STOP The CSS Grid Confusion - 2 Ways to GRID!](https://www.youtube.com/watch?v=YNB-JD7iPoQ)
