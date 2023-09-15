@@ -29,6 +29,7 @@
 * [CSS Dinner](https://flukeout.github.io) 🌟 - flukeout
 
 ## Videos
+* [Learn Every CSS Selector In 20 Minutes](https://www.youtube.com/watch?v=l1mER1bV0N0) - Web Dev Simplified
 * [STOP The CSS Grid Confusion - 2 Ways to GRID!](https://www.youtube.com/watch?v=YNB-JD7iPoQ)
 * [Let's Learn .NET - Web Development ~2 hours](https://www.youtube.com/watch?v=vuNRDdu1vJQ) - dotNET
 * [CSS Tutorial - Zero to Hero (Complete Course) ~6 hours](https://www.youtube.com/watch?v=1Rs2ND1ryYc) - freeCodeCamp.org
