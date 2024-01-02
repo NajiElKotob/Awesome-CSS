@@ -26,7 +26,8 @@
 * [CSS Guidelines](https://cssguidelin.es/) - cssguidelin.es
 
 ## Gamification
-* [CSS Dinner](https://flukeout.github.io) 🌟 - flukeout
+* [CSS Dinner](https://flukeout.github.io) 🌟 - flukeout | It’s a fun game to learn and practice CSS selectors.
+
 
 ## Videos
 * [Learn Every CSS Selector In 20 Minutes](https://www.youtube.com/watch?v=l1mER1bV0N0) - Web Dev Simplified
