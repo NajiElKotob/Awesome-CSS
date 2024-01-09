@@ -7,11 +7,48 @@
 * [Learn CSS – Responsive Web Design Study Guide](https://www.freecodecamp.org/news/learn-css/) - freecodecamp.org
 * [50 Projects in 50 Days](https://github.com/bradtraversy/50projects50days) ⭐ - HTML, CSS and JS
   
-#### Flexbox
+### CSS Features
+`Top CSS features that every web developer should learn to effectively create modern, responsive, and attractive web designs`
+
+#### Selectors and Specificity
+`Understanding how to select elements with class, ID, attribute, pseudo-class, and pseudo-element selectors, and how specificity determines which styles are applied.`
+* [Learn Every CSS Selector In 20 Minutes](https://www.youtube.com/watch?v=l1mER1bV0N0) - Web Dev Simplified
+* [CSS Dinner](https://flukeout.github.io) 🍽🎮 - flukeout | It is a fun game to learn and practice CSS selectors.
+  
+#### Box Model
+`Comprehending the box model (margin, border, padding, and content) and how it affects layout and spacing of elements.`
+
+#### Positioning
+`Learning the various types of positioning (static, relative, absolute, fixed, and sticky) to control the layout of elements on the page.`
+
+#### Flexbox: Using 
+`Flexbox for one-dimensional layouts, which is crucial for aligning items and distributing space within a container in a row or column.`
 * [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - css-tricks.com
 * [Learn Flexbox CSS 📺 ~8 min](https://youtu.be/phWxA89Dy94) - Slaying The Dragon
+* [Flexbox Froggy](https://flexboxfroggy.com/) 🐸🎮 - flexboxfroggy.com | It is a game for learning CSS flexbox.
+* [Coding fantasy](https://codingfantasy.com/games/flexboxadventure/play) 🎮 codingfantasy.com | It is a game to learn CSS, HTML and javascrip
+  
+#### Grid Layout
+`Implementing CSS Grid for two-dimensional layouts, allowing precise control over rows and columns for complex layout designs.`
+* [STOP The CSS Grid Confusion - 2 Ways to GRID!](https://www.youtube.com/watch?v=YNB-JD7iPoQ)
+* [Grid Garden](https://cssgridgarden.com/) - 🎮 cssgridgarden.com | It is a game for learning CSS grid layout.
 
+#### Responsive Design and Media Queries
+`Creating responsive web designs that adapt to different screen sizes and devices using media queries.`
 
+#### Animations and Transitions
+`Adding interactive elements with CSS animations and transitions for dynamic and engaging user experiences.`
+
+#### Custom Properties (CSS Variables)
+`Utilizing CSS variables for better maintainability and easier theming.`
+
+#### Pseudo-classes and Pseudo-elements
+`Styling specific states of elements and certain parts of elements to enhance user interaction and content presentation.`
+
+#### Typography and Web Fonts
+`Applying font styles, importing web fonts, and understanding typographic properties for text presentation and readability.`
+* [Google Fonts](https://fonts.google.com/)
+  
 -----
 
 ## CSS Libraries
@@ -26,16 +63,7 @@
 * [CSS Properties](https://css-tricks.com/almanac/properties/) - css-tricks.com
 * [CSS Guidelines](https://cssguidelin.es/) - cssguidelin.es
 
-## Gamification
-* [CSS Dinner](https://flukeout.github.io) 🌟 - flukeout | It is a fun game to learn and practice CSS selectors.
-* [Flexbox Froggy](https://flexboxfroggy.com/) 🐸 - flexboxfroggy.com | It is a game for learning CSS flexbox.
-* [Coding fantasy](https://codingfantasy.com/games/flexboxadventure/play) codingfantasy.com | It is a game to learn CSS, HTML and javascrip
-* [Grid Garden](https://cssgridgarden.com/) - cssgridgarden.com | It is a game for learning CSS grid layout.
-  
 ## Videos
-* [Learn Every CSS Selector In 20 Minutes](https://www.youtube.com/watch?v=l1mER1bV0N0) - Web Dev Simplified
-* [STOP The CSS Grid Confusion - 2 Ways to GRID!](https://www.youtube.com/watch?v=YNB-JD7iPoQ)
-* [Let's Learn .NET - Web Development ~2 hours](https://www.youtube.com/watch?v=vuNRDdu1vJQ) - dotNET
 * [CSS Tutorial - Zero to Hero (Complete Course) ~6 hours](https://www.youtube.com/watch?v=1Rs2ND1ryYc) - freeCodeCamp.org
 
 ## Tools
