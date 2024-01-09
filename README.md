@@ -11,6 +11,7 @@
 * [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - css-tricks.com
 * [Learn Flexbox CSS 📺 ~8 min](https://youtu.be/phWxA89Dy94) - Slaying The Dragon
 
+
 -----
 
 ## CSS Libraries
@@ -27,7 +28,7 @@
 
 ## Gamification
 * [CSS Dinner](https://flukeout.github.io) 🌟 - flukeout | It is a fun game to learn and practice CSS selectors.
-* [Flexbox Froggy](https://flexboxfroggy.com/) - flexboxfroggy.com | It is a game for learning CSS flexbox.
+* [Flexbox Froggy](https://flexboxfroggy.com/) 🐸 - flexboxfroggy.com | It is a game for learning CSS flexbox.
 * [Coding fantasy](https://codingfantasy.com/games/flexboxadventure/play) codingfantasy.com | It is a game to learn CSS, HTML and javascrip
 * [Grid Garden](https://cssgridgarden.com/) - cssgridgarden.com | It is a game for learning CSS grid layout.
   
