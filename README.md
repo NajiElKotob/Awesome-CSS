@@ -6,7 +6,12 @@
 * [CSS Guides](https://css-tricks.com/guides/) - css-tricks.com
 * [Learn CSS – Responsive Web Design Study Guide](https://www.freecodecamp.org/news/learn-css/) - freecodecamp.org
 * [50 Projects in 50 Days](https://github.com/bradtraversy/50projects50days) ⭐ - HTML, CSS and JS
-  
+
+### Videos
+* [CSS Tutorial - Zero to Hero (Complete Course) ~6 hours](https://www.youtube.com/watch?v=1Rs2ND1ryYc) - freeCodeCamp.org
+
+-----
+
 ### CSS Features
 `Top CSS features that every web developer should learn to effectively create modern, responsive, and attractive web designs`
 
@@ -58,16 +63,16 @@
 * [Masonry](https://masonry.desandro.com/) - desandro.com
 * [Pure CSS Loaders](https://loading.io/css/) - loading.io
 
+
+
+## Tools
+* [Web Code Tools](https://webcode.tools/generators/css) - webcode.tools
+
 ## Refernces
 * [CSS Reference](https://cssreference.io/) - cssreference.io
 * [CSS Properties](https://css-tricks.com/almanac/properties/) - css-tricks.com
 * [CSS Guidelines](https://cssguidelin.es/) - cssguidelin.es
 
-## Videos
-* [CSS Tutorial - Zero to Hero (Complete Course) ~6 hours](https://www.youtube.com/watch?v=1Rs2ND1ryYc) - freeCodeCamp.org
-
-## Tools
-* [Web Code Tools](https://webcode.tools/generators/css) - webcode.tools
 
 ## Quiz
 * [CSS Quiz](https://www.w3schools.com/css/css_quiz.asp) - w3schools.com
