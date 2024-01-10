@@ -22,12 +22,13 @@
   
 #### Box Model
 `Comprehending the box model (margin, border, padding, and content) and how it affects layout and spacing of elements.`
-
+* [CSS Box Model](https://www.w3schools.com/css/css_boxmodel.asp)
+  
 #### Positioning
 `Learning the various types of positioning (static, relative, absolute, fixed, and sticky) to control the layout of elements on the page.`
 
-#### Flexbox: Using 
-`Flexbox for one-dimensional layouts, which is crucial for aligning items and distributing space within a container in a row or column.`
+#### Flexbox 
+`Using Flexbox for one-dimensional layouts, which is crucial for aligning items and distributing space within a container in a row or column.`
 * [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - css-tricks.com
 * [Learn Flexbox CSS 📺 ~8 min](https://youtu.be/phWxA89Dy94) - Slaying The Dragon
 * [Flexbox Froggy](https://flexboxfroggy.com/) 🐸🎮 - flexboxfroggy.com | It is a game for learning CSS flexbox.
