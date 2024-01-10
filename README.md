@@ -18,7 +18,7 @@
 #### Selectors and Specificity
 `Understanding how to select elements with class, ID, attribute, pseudo-class, and pseudo-element selectors, and how specificity determines which styles are applied.`
 * [Learn Every CSS Selector In 20 Minutes](https://www.youtube.com/watch?v=l1mER1bV0N0) - Web Dev Simplified
-* [CSS Dinner](https://flukeout.github.io) 🍽🎮 - flukeout | It is a fun game to learn and practice CSS selectors.
+* [CSS Diner](https://flukeout.github.io) 🍽🎮 - flukeout | It is a fun game to learn and practice CSS selectors.
   
 #### Box Model
 `Comprehending the box model (margin, border, padding, and content) and how it affects layout and spacing of elements.`
