@@ -28,7 +28,8 @@
   
 #### Positioning
 `Learning the various types of positioning (static, relative, absolute, fixed, and sticky) to control the layout of elements on the page.`
-
+* [Learn CSS Position In 9 Minutes :tv:](https://www.youtube.com/watch?v=jx5jmI0UlXU) - Web Dev Simplified
+  
 #### Flexbox 
 `Using Flexbox for one-dimensional layouts, which is crucial for aligning items and distributing space within a container in a row or column.`
 * [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - css-tricks.com
