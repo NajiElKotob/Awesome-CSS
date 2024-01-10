@@ -22,6 +22,7 @@
   
 #### Box Model
 `Comprehending the box model (margin, border, padding, and content) and how it affects layout and spacing of elements.`
+* [Box Model 📺 ~12min](https://www.youtube.com/watch?v=zaqk-vTPRBs) - Web Dev Simplified
 * [CSS Box Model](https://www.w3schools.com/css/css_boxmodel.asp)
   
 #### Positioning
