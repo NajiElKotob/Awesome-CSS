@@ -48,6 +48,7 @@
 #### Animations and Transitions
 `Adding interactive elements with CSS animations and transitions for dynamic and engaging user experiences.`
 * [Learn CSS Animations In 20 Minutes - For Beginners](https://www.youtube.com/watch?v=SgmNxE9lWcY) - Slaying The Dragon
+* [Transitions & Animations](https://learn.shayhowe.com/advanced-html-css/transitions-animations/) - Shay Howe
 
 #### Custom Properties (CSS Variables)
 `Utilizing CSS variables for better maintainability and easier theming.`
