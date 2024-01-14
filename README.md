@@ -78,6 +78,9 @@
 * [CSS Properties](https://css-tricks.com/almanac/properties/) - css-tricks.com
 * [CSS Guidelines](https://cssguidelin.es/) - cssguidelin.es
 
+## Challenges
+* [100 Days CSS Challenges](https://100dayscss.com/days/1/) - 100dayscss.com
+
 
 ## Quiz
 * [CSS Quiz](https://www.w3schools.com/css/css_quiz.asp) - w3schools.com
